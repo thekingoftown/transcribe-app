@@ -1,0 +1,1912 @@
+1
+00:00:00,000 --> 00:00:03,960
+Are you using volume slash market profile analysis
+
+2
+00:00:03,960 --> 00:00:05,280
+in your futures trading?
+
+3
+00:00:05,280 --> 00:00:07,660
+If so, you need to watch this video.
+
+4
+00:00:07,660 --> 00:00:10,339
+Volume profile can be a useful tool,
+
+5
+00:00:10,339 --> 00:00:12,679
+but there's also some serious problems
+
+6
+00:00:12,679 --> 00:00:14,580
+with the underlying theories
+
+7
+00:00:14,580 --> 00:00:17,199
+behind this popular analysis method.
+
+8
+00:00:17,199 --> 00:00:19,420
+Keep in mind, volume profile was developed
+
+9
+00:00:19,420 --> 00:00:22,960
+over 30 years ago, like it's older than me,
+
+10
+00:00:22,960 --> 00:00:25,920
+and I'm getting quite a few gray hairs on my face here.
+
+11
+00:00:25,920 --> 00:00:27,320
+Our understanding of markets
+
+12
+00:00:27,320 --> 00:00:30,480
+has evolved considerably since that time.
+
+13
+00:00:30,480 --> 00:00:33,320
+Now that doesn't make volume profile useless,
+
+14
+00:00:33,320 --> 00:00:34,600
+far from it.
+
+15
+00:00:34,600 --> 00:00:37,320
+A few tweaks based on our modern understanding
+
+16
+00:00:37,320 --> 00:00:41,479
+of markets can make volume profile a powerful tool.
+
+17
+00:00:41,479 --> 00:00:43,380
+So, are you ready?
+
+18
+00:00:43,380 --> 00:00:44,280
+Let's get started.
+
+19
+00:00:44,280 --> 00:00:51,670
+Market profile is a form of analysis
+
+20
+00:00:51,670 --> 00:00:55,850
+pioneered in the 80s by J. Peter Steitelmeier,
+
+21
+00:00:55,850 --> 00:00:58,310
+and I have on good authority
+
+22
+00:00:58,310 --> 00:01:00,609
+that that guy is a total boss.
+
+23
+00:01:00,609 --> 00:01:03,929
+Like I asked around and everybody that traded with him
+
+24
+00:01:03,929 --> 00:01:07,170
+says he is one of the smartest people they ever met.
+
+25
+00:01:07,170 --> 00:01:09,209
+Then one of his students, John Dalton,
+
+26
+00:01:09,209 --> 00:01:11,650
+came along with his book, Mind Over Markets,
+
+27
+00:01:11,650 --> 00:01:15,409
+which really popularized the idea among retail traders.
+
+28
+00:01:15,409 --> 00:01:17,829
+Instead of your typical stock chart,
+
+29
+00:01:17,829 --> 00:01:20,370
+a market profile displays the market
+
+30
+00:01:20,370 --> 00:01:22,349
+as more of a histogram
+
+31
+00:01:22,349 --> 00:01:25,689
+to show how much time is spent at each price.
+
+32
+00:01:25,689 --> 00:01:28,250
+The trading day is split up into 30-minute sections
+
+33
+00:01:28,489 --> 00:01:30,129
+called time price opportunities
+
+34
+00:01:30,129 --> 00:01:34,530
+with each TPO being assigned a letter or a color.
+
+35
+00:01:34,530 --> 00:01:38,769
+The distribution then shows which TPO's touched that price.
+
+36
+00:01:38,769 --> 00:01:41,049
+It's more than just a really cool looking chart though.
+
+37
+00:01:41,049 --> 00:01:43,049
+The resulting graph usually shows
+
+38
+00:01:43,049 --> 00:01:45,810
+some sort of a Gaussian distribution,
+
+39
+00:01:45,810 --> 00:01:49,290
+which you would not expect in a purely random market.
+
+40
+00:01:49,290 --> 00:01:51,730
+The center of that distribution where the volume is highest
+
+41
+00:01:51,730 --> 00:01:55,010
+is called the point of control or POC.
+
+42
+00:01:55,010 --> 00:01:58,650
+You can further include the volume around that POC
+
+43
+00:01:58,650 --> 00:02:01,010
+until you have 70% of the day's volume
+
+44
+00:02:01,010 --> 00:02:04,769
+to define the value area of the day.
+
+45
+00:02:04,769 --> 00:02:06,450
+Now, as the data evolved,
+
+46
+00:02:06,450 --> 00:02:07,950
+we gained the ability to create
+
+47
+00:02:07,950 --> 00:02:11,689
+the same sort of histogram using a volume instead,
+
+48
+00:02:11,689 --> 00:02:13,849
+and the resulting volume profile
+
+49
+00:02:13,849 --> 00:02:15,870
+allows the same sort of analysis,
+
+50
+00:02:15,870 --> 00:02:18,050
+but on more granular data.
+
+51
+00:02:18,050 --> 00:02:20,610
+Some traders may prefer one over the other,
+
+52
+00:02:20,610 --> 00:02:23,090
+but volume profile and market profile
+
+53
+00:02:23,090 --> 00:02:24,729
+are largely interchangeable.
+
+54
+00:02:24,729 --> 00:02:27,969
+So yeah, don't let me confuse you if I mix terms around.
+
+55
+00:02:27,969 --> 00:02:30,930
+I'll probably say volume profile most of the time,
+
+56
+00:02:30,930 --> 00:02:32,330
+but same difference.
+
+57
+00:02:32,330 --> 00:02:33,590
+They're all based around
+
+58
+00:02:33,590 --> 00:02:37,129
+the same underlying theory of markets.
+
+59
+00:02:37,129 --> 00:02:41,250
+That theory at the heart of market profile analysis
+
+60
+00:02:41,250 --> 00:02:43,289
+is auction theory,
+
+61
+00:02:43,289 --> 00:02:46,729
+a theory for how markets move relative to value.
+
+62
+00:02:46,729 --> 00:02:48,650
+John Dalton describes this process
+
+63
+00:02:48,650 --> 00:02:50,530
+in the following manner in his book.
+
+64
+00:02:50,530 --> 00:02:53,389
+If the open is considered below value,
+
+65
+00:02:53,389 --> 00:02:56,150
+price auctions higher in search of sellers.
+
+66
+00:02:56,150 --> 00:02:59,830
+If the open is considered too high by market participants,
+
+67
+00:02:59,830 --> 00:03:02,629
+price auctions lower, searching for buyers.
+
+68
+00:03:02,629 --> 00:03:04,250
+Once a buyer enters the market,
+
+69
+00:03:04,250 --> 00:03:06,349
+price begins to auction upward
+
+70
+00:03:06,349 --> 00:03:08,389
+until the last buyer has bought.
+
+71
+00:03:08,389 --> 00:03:10,810
+Similarly, the market auctions downward
+
+72
+00:03:10,810 --> 00:03:12,729
+until the last seller has sold,
+
+73
+00:03:12,729 --> 00:03:15,430
+constantly searching for information.
+
+74
+00:03:15,430 --> 00:03:17,270
+So under this theory,
+
+75
+00:03:17,270 --> 00:03:20,509
+when market participants agree on fair value,
+
+76
+00:03:20,509 --> 00:03:22,490
+the market will stay in a range
+
+77
+00:03:22,490 --> 00:03:24,090
+of creating a distribution.
+
+78
+00:03:24,090 --> 00:03:25,490
+If fair value changes,
+
+79
+00:03:25,490 --> 00:03:27,610
+the market will auction up or down
+
+80
+00:03:27,610 --> 00:03:29,650
+in what is called range extension,
+
+81
+00:03:29,650 --> 00:03:32,610
+just like those auctions you see in movies.
+
+82
+00:03:32,610 --> 00:03:35,169
+Like Wreck-It Ralph 2 has a great example.
+
+83
+00:03:35,169 --> 00:03:36,490
+They keep bidding it up
+
+84
+00:03:36,490 --> 00:03:38,490
+until they realize how stupid they are.
+
+85
+00:03:38,490 --> 00:03:40,389
+Same thing happens in real markets,
+
+86
+00:03:40,389 --> 00:03:42,810
+but it auctions both ways at the same time.
+
+87
+00:03:42,810 --> 00:03:44,449
+If a new fair value is found,
+
+88
+00:03:44,449 --> 00:03:47,169
+the market will create a new distribution,
+
+89
+00:03:47,169 --> 00:03:50,009
+or that range extension move can be rejected,
+
+90
+00:03:50,009 --> 00:03:53,449
+forcing a test of the other side of the original range.
+
+91
+00:03:53,449 --> 00:03:55,530
+Most market profile practitioners
+
+92
+00:03:55,530 --> 00:03:56,930
+will then use this framework
+
+93
+00:03:56,930 --> 00:03:59,129
+together with past point of control,
+
+94
+00:03:59,129 --> 00:04:01,229
+value areas and related statistics
+
+95
+00:04:01,229 --> 00:04:03,650
+to try and predict where the market may go
+
+96
+00:04:03,650 --> 00:04:04,969
+during the trading day
+
+97
+00:04:04,969 --> 00:04:08,409
+and what prices they're interested in executing at.
+
+98
+00:04:08,409 --> 00:04:11,050
+So there's a lot to like about volume profile.
+
+99
+00:04:11,050 --> 00:04:13,530
+I feel like a lot of market philosophies
+
+100
+00:04:13,530 --> 00:04:15,930
+are based on conspiracy theories.
+
+101
+00:04:15,930 --> 00:04:18,670
+Maybe we'll talk about one of those next video.
+
+102
+00:04:18,670 --> 00:04:19,930
+But that's not the case
+
+103
+00:04:20,850 --> 00:04:21,689
+with auction theory.
+
+104
+00:04:21,689 --> 00:04:24,129
+It was created by serious market practitioners
+
+105
+00:04:24,129 --> 00:04:27,209
+based on real observations of the market.
+
+106
+00:04:27,209 --> 00:04:28,970
+Everyone that has traded seriously
+
+107
+00:04:28,970 --> 00:04:32,170
+can see it even if they can't quite put it into words.
+
+108
+00:04:32,170 --> 00:04:34,310
+Sometimes the market is dead
+
+109
+00:04:34,310 --> 00:04:35,850
+and you're bored out of your mind
+
+110
+00:04:35,850 --> 00:04:39,449
+and sometimes the trend just never ceases.
+
+111
+00:04:39,449 --> 00:04:43,490
+Volume profile also tries to utilize data and statistics
+
+112
+00:04:43,490 --> 00:04:45,209
+to create a consistent system.
+
+113
+00:04:45,209 --> 00:04:47,649
+You can get pretty far with some consistency
+
+114
+00:04:47,649 --> 00:04:49,290
+and smart risk management.
+
+115
+00:04:49,290 --> 00:04:52,810
+Something volume profile educators will emphasize a lot.
+
+116
+00:04:52,810 --> 00:04:55,529
+The edge maybe isn't so much in the setup
+
+117
+00:04:55,529 --> 00:04:57,410
+as it is in being consistent.
+
+118
+00:04:57,410 --> 00:04:58,949
+But in my opinion,
+
+119
+00:04:58,949 --> 00:05:01,889
+this is where the cracks in the theory start to appear,
+
+120
+00:05:01,889 --> 00:05:04,990
+especially when it comes down to some of the statistics.
+
+121
+00:05:04,990 --> 00:05:07,870
+Many stats end up being useless
+
+122
+00:05:07,870 --> 00:05:11,129
+due to risk reward and the fat tailed nature of markets.
+
+123
+00:05:11,129 --> 00:05:13,889
+Even if you have the thousands of samples required
+
+124
+00:05:13,889 --> 00:05:16,250
+for a statistically significant result,
+
+125
+00:05:16,250 --> 00:05:20,290
+a simple percentage or average is not going to be enough
+
+126
+00:05:20,290 --> 00:05:23,449
+to understand what's going on or build a strategy.
+
+127
+00:05:23,449 --> 00:05:25,930
+So why not just back test it?
+
+128
+00:05:25,930 --> 00:05:28,170
+Well, that's what I always say.
+
+129
+00:05:28,170 --> 00:05:31,129
+In this case though, people have a decent excuse.
+
+130
+00:05:31,129 --> 00:05:33,529
+Generating volume profile requires you
+
+131
+00:05:33,529 --> 00:05:35,709
+to sort every executed order
+
+132
+00:05:35,709 --> 00:05:38,290
+into a volume by price data structure
+
+133
+00:05:38,290 --> 00:05:40,430
+and that takes computing resources.
+
+134
+00:05:40,430 --> 00:05:41,529
+On top of that,
+
+135
+00:05:41,529 --> 00:05:43,610
+most retail traders don't have access
+
+136
+00:05:43,610 --> 00:05:44,970
+to enough historical data.
+
+137
+00:05:44,970 --> 00:05:48,250
+Most data providers will only provide one year's worth
+
+138
+00:05:48,250 --> 00:05:52,170
+of the granular order based data necessary
+
+139
+00:05:52,170 --> 00:05:54,370
+to produce volume profiles.
+
+140
+00:05:54,370 --> 00:05:56,689
+So we could just be like most people, you know,
+
+141
+00:05:56,689 --> 00:05:58,850
+and trade it anyways without testing it,
+
+142
+00:05:58,850 --> 00:06:01,889
+but you know me, we're gonna back test this.
+
+143
+00:06:01,889 --> 00:06:04,930
+There is a solution and that is to cache it.
+
+144
+00:06:04,930 --> 00:06:06,589
+You can generate the volume profile,
+
+145
+00:06:06,589 --> 00:06:07,930
+calculate the key levels
+
+146
+00:06:07,930 --> 00:06:09,290
+like the daily point of control,
+
+147
+00:06:09,290 --> 00:06:12,050
+value area high, value area low, et cetera,
+
+148
+00:06:12,050 --> 00:06:15,889
+and save those levels permanently to a file.
+
+149
+00:06:15,889 --> 00:06:18,370
+So that's what I did with my indicator
+
+150
+00:06:18,370 --> 00:06:19,810
+that I created for this video.
+
+151
+00:06:19,810 --> 00:06:21,490
+Yes, I'm gonna give you more free stuff.
+
+152
+00:06:21,490 --> 00:06:24,250
+The indicator calculates the daily levels
+
+153
+00:06:24,250 --> 00:06:26,949
+and puts the result in a CSV file
+
+154
+00:06:26,949 --> 00:06:29,050
+saved in Ninja Traders cache folder.
+
+155
+00:06:29,050 --> 00:06:32,009
+So when you look at a day that is already in the cache,
+
+156
+00:06:32,009 --> 00:06:34,709
+it doesn't have to redo the calculation
+
+157
+00:06:34,709 --> 00:06:36,089
+every time you back test,
+
+158
+00:06:36,089 --> 00:06:38,129
+it just grabs it from the file.
+
+159
+00:06:38,129 --> 00:06:40,569
+The indicator works in back testing,
+
+160
+00:06:40,610 --> 00:06:43,410
+allowing you to do lightning fast back tests
+
+161
+00:06:43,410 --> 00:06:45,769
+without the need for tick replay.
+
+162
+00:06:45,769 --> 00:06:48,649
+It also allows me to calculate these levels
+
+163
+00:06:48,649 --> 00:06:52,170
+and give them to you going back five to 10 years
+
+164
+00:06:52,170 --> 00:06:54,410
+so that you can do a proper back test.
+
+165
+00:06:54,410 --> 00:06:56,730
+And yes, there will be links to download
+
+166
+00:06:56,730 --> 00:07:00,209
+both the indicator, the example back test,
+
+167
+00:07:00,209 --> 00:07:03,290
+and the cached data that you will need.
+
+168
+00:07:03,290 --> 00:07:04,449
+I will put it on Discord
+
+169
+00:07:04,449 --> 00:07:06,370
+and link it in the video description below.
+
+170
+00:07:06,370 --> 00:07:09,889
+So while I'm here criticizing volume profile,
+
+171
+00:07:09,889 --> 00:07:11,689
+I'm also creating one of the best
+
+172
+00:07:11,689 --> 00:07:13,930
+volume profile resources available
+
+173
+00:07:13,930 --> 00:07:15,449
+and giving it to you for free.
+
+174
+00:07:15,449 --> 00:07:17,290
+No, no, no, no, you don't have to thank me.
+
+175
+00:07:17,290 --> 00:07:19,410
+It would be nice if you click that like button though.
+
+176
+00:07:19,410 --> 00:07:20,490
+Seriously though,
+
+177
+00:07:20,490 --> 00:07:24,250
+I want you to be able to do this research on your own.
+
+178
+00:07:24,250 --> 00:07:26,649
+That way you can run the strategy for yourself
+
+179
+00:07:26,649 --> 00:07:29,410
+and make as many different variations as you want.
+
+180
+00:07:29,410 --> 00:07:32,009
+That's what makes this empirical.
+
+181
+00:07:32,009 --> 00:07:34,970
+You can verify it for yourself.
+
+182
+00:07:34,970 --> 00:07:36,889
+So I wanted to test a setup
+
+183
+00:07:36,889 --> 00:07:39,410
+that involves only volume profile.
+
+184
+00:07:39,410 --> 00:07:41,490
+I found a lot of strategy guides out there
+
+185
+00:07:41,490 --> 00:07:44,209
+that claim to be volume profile setups
+
+186
+00:07:44,209 --> 00:07:46,850
+and are really more about things like opening ranges,
+
+187
+00:07:46,850 --> 00:07:47,689
+et cetera.
+
+188
+00:07:47,689 --> 00:07:50,250
+We're interested in volume profile.
+
+189
+00:07:50,250 --> 00:07:52,089
+And yeah, we're going to back test this
+
+190
+00:07:52,089 --> 00:07:53,730
+over 10 years of data.
+
+191
+00:07:53,730 --> 00:07:56,250
+I really think that five years is the minimum.
+
+192
+00:07:56,250 --> 00:08:00,170
+If I wanted to run like a commodities trading pool,
+
+193
+00:08:00,170 --> 00:08:02,310
+I have to give out five years of data.
+
+194
+00:08:02,310 --> 00:08:04,370
+So that's why that's my standard.
+
+195
+00:08:04,370 --> 00:08:06,769
+And trust me, it was not easy to get my hands
+
+196
+00:08:06,810 --> 00:08:10,129
+on this data and process it into the daily levels,
+
+197
+00:08:10,129 --> 00:08:11,949
+but I did it cause I'm awesome.
+
+198
+00:08:11,949 --> 00:08:14,889
+So I actually ended up spending quite a bit of time
+
+199
+00:08:14,889 --> 00:08:17,209
+trying to find a better setup.
+
+200
+00:08:17,209 --> 00:08:18,449
+And I did find something
+
+201
+00:08:18,449 --> 00:08:20,569
+that actually ended up being profitable.
+
+202
+00:08:20,569 --> 00:08:22,329
+I wouldn't say that the results are great,
+
+203
+00:08:22,329 --> 00:08:23,569
+but it is profitable.
+
+204
+00:08:23,569 --> 00:08:25,209
+And the setup was really simple.
+
+205
+00:08:25,209 --> 00:08:26,209
+It was just,
+
+206
+00:08:26,209 --> 00:08:29,149
+if you cross below the value area high, enter short.
+
+207
+00:08:29,149 --> 00:08:31,850
+And if you cross above the value area low,
+
+208
+00:08:31,850 --> 00:08:32,809
+you go long.
+
+209
+00:08:32,809 --> 00:08:34,690
+And you can see here from the equity curve,
+
+210
+00:08:34,730 --> 00:08:36,970
+it is profitable, especially more recently,
+
+211
+00:08:36,970 --> 00:08:40,009
+although like everything is kind of profitable
+
+212
+00:08:40,009 --> 00:08:41,690
+recently since 2020.
+
+213
+00:08:41,690 --> 00:08:44,250
+But a couple of things that I really want to point out,
+
+214
+00:08:44,250 --> 00:08:47,529
+there is a period from like 2015 to 2019
+
+215
+00:08:47,529 --> 00:08:49,570
+where it did not do well at all.
+
+216
+00:08:49,570 --> 00:08:53,610
+So several years where the strategy was ineffective.
+
+217
+00:08:53,610 --> 00:08:56,129
+So that's definitely something that you want to consider.
+
+218
+00:08:56,129 --> 00:08:57,450
+Also, when you come over
+
+219
+00:08:57,450 --> 00:08:59,750
+and you look at some of the numbers, right?
+
+220
+00:08:59,750 --> 00:09:01,450
+Sharp ratio isn't very good.
+
+221
+00:09:01,450 --> 00:09:03,850
+This is not a strategy that I would go out
+
+222
+00:09:03,850 --> 00:09:05,570
+and start a hedge fund with.
+
+223
+00:09:05,570 --> 00:09:06,970
+You would probably do better
+
+224
+00:09:06,970 --> 00:09:09,809
+just putting your money into the S&P 500.
+
+225
+00:09:09,809 --> 00:09:12,690
+But there are some interesting statistical anomalies here.
+
+226
+00:09:12,690 --> 00:09:14,370
+And remember, the point that I'm trying to make
+
+227
+00:09:14,370 --> 00:09:16,610
+is not that volume profile is useless.
+
+228
+00:09:16,610 --> 00:09:19,610
+There does appear to be kind of something to it,
+
+229
+00:09:19,610 --> 00:09:22,370
+but it seems like with some of the performance
+
+230
+00:09:22,370 --> 00:09:24,250
+and the other information that we have,
+
+231
+00:09:24,250 --> 00:09:26,289
+that it's not really the full picture.
+
+232
+00:09:26,289 --> 00:09:28,769
+But hey, maybe you can improve the strategy.
+
+233
+00:09:28,769 --> 00:09:31,409
+That's one of the things that drives me nuts
+
+234
+00:09:31,409 --> 00:09:32,570
+on this kind of video.
+
+235
+00:09:32,570 --> 00:09:34,169
+There's always that one guy that's like,
+
+236
+00:09:34,169 --> 00:09:37,169
+well, you didn't backtest every possible combination.
+
+237
+00:09:37,169 --> 00:09:38,009
+Yeah, you're right.
+
+238
+00:09:38,009 --> 00:09:40,370
+I only tested a few thousand combinations
+
+239
+00:09:40,370 --> 00:09:41,330
+with machine learning,
+
+240
+00:09:41,330 --> 00:09:44,029
+but if I missed something, then why don't you make it?
+
+241
+00:09:44,029 --> 00:09:47,110
+I've already spent countless hours on this sort of thing
+
+242
+00:09:47,110 --> 00:09:48,549
+so that you don't have to do it.
+
+243
+00:09:48,549 --> 00:09:50,649
+We have all of this other empirical data
+
+244
+00:09:50,649 --> 00:09:53,809
+that we can verify and I want to spend my time there,
+
+245
+00:09:53,809 --> 00:09:55,970
+but you have everything you need
+
+246
+00:09:55,970 --> 00:09:59,529
+if you really want to test it more yourself.
+
+247
+00:09:59,529 --> 00:10:02,730
+So why doesn't this seem to work?
+
+248
+00:10:02,730 --> 00:10:04,610
+And I believe it's the same problem
+
+249
+00:10:04,610 --> 00:10:07,929
+that most technical analysis suffers from.
+
+250
+00:10:07,929 --> 00:10:11,570
+The existence of patterns or statistical abnormalities
+
+251
+00:10:11,570 --> 00:10:14,970
+doesn't necessarily mean they're predictive.
+
+252
+00:10:14,970 --> 00:10:18,169
+They're really more the result than the cause of things.
+
+253
+00:10:18,169 --> 00:10:20,830
+And so we're assigning significance to levels
+
+254
+00:10:20,830 --> 00:10:23,570
+that are really just arbitrary and random.
+
+255
+00:10:23,570 --> 00:10:26,370
+I've always found it particularly amusing
+
+256
+00:10:26,370 --> 00:10:30,769
+that so much attention is paid to the point of control in ES.
+
+257
+00:10:30,769 --> 00:10:32,929
+For the S&P 500, the point of control
+
+258
+00:10:32,929 --> 00:10:36,029
+is almost always right around the close
+
+259
+00:10:36,029 --> 00:10:38,850
+due to the amount of volume traded in the closing auction.
+
+260
+00:10:38,850 --> 00:10:40,370
+Like, look at this chart.
+
+261
+00:10:40,370 --> 00:10:42,809
+Here's the close, here's the point of control,
+
+262
+00:10:42,809 --> 00:10:45,049
+here's the close, here's the point of control.
+
+263
+00:10:45,049 --> 00:10:47,850
+Any kind of oddity you might find in the statistics
+
+264
+00:10:47,850 --> 00:10:50,809
+around how price reacts to a previous day's point
+
+265
+00:10:50,809 --> 00:10:54,269
+of control probably has more to do with volatility
+
+266
+00:10:54,269 --> 00:10:55,289
+than anything else.
+
+267
+00:10:55,289 --> 00:10:58,809
+Still, there are some interesting market behaviors in there
+
+268
+00:10:58,809 --> 00:11:01,090
+that we haven't explained in particular.
+
+269
+00:11:01,090 --> 00:11:03,450
+Why do we get those Gaussian distributions?
+
+270
+00:11:03,450 --> 00:11:05,649
+There is an explanation.
+
+271
+00:11:05,649 --> 00:11:10,590
+So let's get into a more modern understanding of markets.
+
+272
+00:11:10,590 --> 00:11:12,950
+The new theory that replaces auction theory
+
+273
+00:11:12,950 --> 00:11:14,490
+is what many of us refer to
+
+274
+00:11:14,490 --> 00:11:17,809
+as the order flow-driven view of markets.
+
+275
+00:11:17,809 --> 00:11:20,129
+Its premise is simple.
+
+276
+00:11:20,129 --> 00:11:22,169
+Orders move markets.
+
+277
+00:11:23,250 --> 00:11:24,250
+Is your mind blown yet?
+
+278
+00:11:24,250 --> 00:11:27,129
+Okay, I know that sounds a little overly simplistic,
+
+279
+00:11:27,129 --> 00:11:29,549
+but working from this simple premise
+
+280
+00:11:29,549 --> 00:11:33,370
+can reveal big secrets about the market.
+
+281
+00:11:33,370 --> 00:11:34,289
+So stick with me.
+
+282
+00:11:34,289 --> 00:11:36,970
+Under this theory, a strong move up or down
+
+283
+00:11:36,970 --> 00:11:38,610
+is simply the result of orders
+
+284
+00:11:38,610 --> 00:11:42,850
+and does not necessarily represent some change
+
+285
+00:11:42,850 --> 00:11:45,649
+in the perception of value among market participants.
+
+286
+00:11:45,649 --> 00:11:48,169
+Many of the largest players in the markets,
+
+287
+00:11:48,169 --> 00:11:51,529
+like index funds, are largely price insensitive.
+
+288
+00:11:51,529 --> 00:11:53,850
+They need to buy or sell a certain amount
+
+289
+00:11:53,850 --> 00:11:56,570
+to rebalance their fund for the end of the month
+
+290
+00:11:56,570 --> 00:11:58,129
+or the end of the quarter.
+
+291
+00:11:58,129 --> 00:12:01,450
+When they buy or sell, it will move the market
+
+292
+00:12:01,450 --> 00:12:04,629
+despite there being no real change to fair value.
+
+293
+00:12:04,629 --> 00:12:06,570
+I go into this idea more in my video
+
+294
+00:12:06,570 --> 00:12:08,370
+on the inelastic theory of markets,
+
+295
+00:12:08,370 --> 00:12:09,409
+so you can head over there
+
+296
+00:12:09,409 --> 00:12:12,809
+if you want to learn more about the research behind that.
+
+297
+00:12:12,809 --> 00:12:13,909
+But there's some other research
+
+298
+00:12:13,909 --> 00:12:16,210
+I want to get into in this video.
+
+299
+00:12:16,210 --> 00:12:19,529
+So if price movements do not necessarily reflect changes
+
+300
+00:12:19,529 --> 00:12:22,129
+in the perception of value among participants,
+
+301
+00:12:22,129 --> 00:12:24,129
+then why does the market switch
+
+302
+00:12:24,129 --> 00:12:26,990
+between trending and range bound regimes?
+
+303
+00:12:26,990 --> 00:12:28,889
+This is where I feel that the ideas
+
+304
+00:12:28,889 --> 00:12:31,490
+behind auction theory really fail.
+
+305
+00:12:31,490 --> 00:12:33,970
+People will say that a lot of volume there
+
+306
+00:12:33,970 --> 00:12:35,370
+indicates interest.
+
+307
+00:12:35,370 --> 00:12:39,009
+But if a price represents fair value,
+
+308
+00:12:39,009 --> 00:12:41,330
+why would the majority of the volume trade there?
+
+309
+00:12:41,330 --> 00:12:43,490
+You don't trade when you think the price is fair,
+
+310
+00:12:43,490 --> 00:12:45,889
+you trade when you think it's too high or too low.
+
+311
+00:12:45,889 --> 00:12:48,350
+And this is where the research gets really interesting
+
+312
+00:12:48,350 --> 00:12:49,769
+because it kind of suggests
+
+313
+00:12:49,769 --> 00:12:51,529
+that it can happen by accident.
+
+314
+00:12:51,529 --> 00:12:53,009
+So to better understand this,
+
+315
+00:12:53,009 --> 00:12:54,850
+let's simplify the market a little
+
+316
+00:12:54,850 --> 00:12:59,009
+by looking at what is called a Walrasian auction.
+
+317
+00:12:59,009 --> 00:13:00,629
+And if you think anything like me,
+
+318
+00:13:00,629 --> 00:13:03,570
+no, this is not an auction with Walruses.
+
+319
+00:13:03,570 --> 00:13:07,730
+It's named after a French guy named Leon Walras,
+
+320
+00:13:07,730 --> 00:13:09,370
+who was, am I saying that right?
+
+321
+00:13:09,370 --> 00:13:10,950
+Listen, it's French.
+
+322
+00:13:10,950 --> 00:13:12,570
+Anyways, this was an interesting guy,
+
+323
+00:13:12,570 --> 00:13:14,690
+but I got to focus here, okay?
+
+324
+00:13:14,690 --> 00:13:15,649
+Stay on topic.
+
+325
+00:13:15,649 --> 00:13:18,610
+A Walrasian auction is the type of auction used
+
+326
+00:13:18,610 --> 00:13:20,330
+in the Taiwan stock market.
+
+327
+00:13:20,330 --> 00:13:22,929
+So participants can only place limit orders
+
+328
+00:13:22,929 --> 00:13:25,470
+and the orders are all collected for five minutes.
+
+329
+00:13:25,470 --> 00:13:28,370
+And then at the end of that time, an auction occurs
+
+330
+00:13:28,370 --> 00:13:29,830
+and the orders are matched up.
+
+331
+00:13:29,830 --> 00:13:33,210
+And having those set intervals makes it much easier
+
+332
+00:13:33,210 --> 00:13:35,570
+to model the dynamics going on.
+
+333
+00:13:35,570 --> 00:13:37,029
+And so you might get something
+
+334
+00:13:37,029 --> 00:13:38,769
+that looks a little bit like this,
+
+335
+00:13:38,769 --> 00:13:41,850
+and no, that is not supposed to be a diagram
+
+336
+00:13:41,850 --> 00:13:43,690
+of party pillows, okay?
+
+337
+00:13:43,690 --> 00:13:46,769
+So you get these twin peaks here.
+
+338
+00:13:46,769 --> 00:13:47,889
+That is not any better.
+
+339
+00:13:47,889 --> 00:13:51,649
+Okay, let's just, let's move on before YouTube gets upset,
+
+340
+00:13:51,649 --> 00:13:52,490
+okay?
+
+341
+00:13:52,490 --> 00:13:54,730
+These are the buys, these are the sells.
+
+342
+00:13:54,730 --> 00:13:55,769
+Orders are matched up
+
+343
+00:13:55,769 --> 00:13:58,490
+where the buy and sell orders intersect.
+
+344
+00:13:58,490 --> 00:14:02,009
+Any orders not matched up will be carried forward
+
+345
+00:14:02,009 --> 00:14:03,450
+to the next auction.
+
+346
+00:14:03,450 --> 00:14:06,649
+The result is there is less liquidity at current prices
+
+347
+00:14:06,649 --> 00:14:09,330
+because those orders were already filled
+
+348
+00:14:09,330 --> 00:14:10,730
+and there's more liquidity
+
+349
+00:14:10,730 --> 00:14:13,029
+immediately above and below that.
+
+350
+00:14:13,029 --> 00:14:15,990
+This leads to a situation where it can be difficult
+
+351
+00:14:15,990 --> 00:14:19,669
+for price to move away from that location.
+
+352
+00:14:19,669 --> 00:14:23,509
+My favorite way of describing this is that price tends
+
+353
+00:14:23,509 --> 00:14:27,789
+to settle at where supply and demand are at their minimum.
+
+354
+00:14:27,789 --> 00:14:30,149
+Clearing a price leaves less liquidity
+
+355
+00:14:30,149 --> 00:14:33,250
+and makes prices more sensitive to orders.
+
+356
+00:14:33,250 --> 00:14:35,230
+Outside of that small zone though,
+
+357
+00:14:35,230 --> 00:14:37,509
+there's a lot of liquidity to push through.
+
+358
+00:14:37,509 --> 00:14:39,809
+So price just kind of gets stuck
+
+359
+00:14:39,809 --> 00:14:42,370
+in what I refer to as a liquidity hole.
+
+360
+00:14:42,370 --> 00:14:43,990
+These dynamics can lead
+
+361
+00:14:43,990 --> 00:14:46,590
+to certain optimal execution strategies
+
+362
+00:14:46,590 --> 00:14:48,950
+that those big players we talked about earlier
+
+363
+00:14:48,950 --> 00:14:50,789
+use to their advantage.
+
+364
+00:14:50,789 --> 00:14:52,049
+For us retail traders,
+
+365
+00:14:52,049 --> 00:14:55,230
+a liquidity hole just absolutely sucks
+
+366
+00:14:55,230 --> 00:14:57,509
+because nobody likes sitting in a trade
+
+367
+00:14:57,509 --> 00:14:59,830
+that goes nowhere for an hour.
+
+368
+00:14:59,830 --> 00:15:02,490
+The big players though can take advantage of it
+
+369
+00:15:02,490 --> 00:15:05,230
+or even create them intentionally.
+
+370
+00:15:05,230 --> 00:15:07,049
+So the number of contracts or shares
+
+371
+00:15:07,049 --> 00:15:08,590
+that they need to buy or sell
+
+372
+00:15:08,590 --> 00:15:10,669
+is more than the available liquidity.
+
+373
+00:15:10,669 --> 00:15:12,110
+So to execute,
+
+374
+00:15:12,110 --> 00:15:14,710
+they have to split up their larger order
+
+375
+00:15:14,710 --> 00:15:17,429
+and execute it in smaller pieces over time.
+
+376
+00:15:17,429 --> 00:15:20,029
+We call this big order a meta order,
+
+377
+00:15:20,029 --> 00:15:21,830
+a big order that is split up
+
+378
+00:15:21,830 --> 00:15:23,669
+and executed in smaller bits.
+
+379
+00:15:23,669 --> 00:15:27,669
+The execution of large meta orders can take a long time
+
+380
+00:15:27,669 --> 00:15:30,309
+and this leads to persistent imbalances
+
+381
+00:15:30,309 --> 00:15:34,070
+between buy and sell orders resulting in trends.
+
+382
+00:15:34,070 --> 00:15:35,870
+So here's what these guys can do.
+
+383
+00:15:35,870 --> 00:15:39,909
+They will execute until they create a liquidity hole.
+
+384
+00:15:39,909 --> 00:15:41,970
+They then scale back the aggressiveness
+
+385
+00:15:42,809 --> 00:15:44,289
+of their orders and execute within that hole.
+
+386
+00:15:44,289 --> 00:15:46,370
+They're executing more slowly
+
+387
+00:15:46,370 --> 00:15:49,169
+but price stays there for a long time.
+
+388
+00:15:49,169 --> 00:15:51,769
+So they end up executing more volume
+
+389
+00:15:51,769 --> 00:15:55,570
+in the liquidity hole than they could in other places
+
+390
+00:15:55,570 --> 00:15:57,929
+and that helps them get a better price.
+
+391
+00:15:57,929 --> 00:16:00,850
+Hence why these liquidity holes often become
+
+392
+00:16:00,850 --> 00:16:04,490
+point of controls or volume nodes on the volume profile.
+
+393
+00:16:04,490 --> 00:16:06,769
+And that's why we get these situations
+
+394
+00:16:06,769 --> 00:16:08,809
+where price will get stuck in a range
+
+395
+00:16:08,809 --> 00:16:11,889
+and situations where we'll break out into a trend
+
+396
+00:16:12,809 --> 00:16:13,970
+and it tends to come in waves.
+
+397
+00:16:13,970 --> 00:16:16,970
+It's a consequence of how liquidity works
+
+398
+00:16:16,970 --> 00:16:19,610
+rather than something to do with fair value.
+
+399
+00:16:19,610 --> 00:16:21,769
+If too much liquidity is cleared at once,
+
+400
+00:16:21,769 --> 00:16:24,409
+it can result in one of these distributions.
+
+401
+00:16:24,409 --> 00:16:27,210
+This could be from a large transaction happening there
+
+402
+00:16:27,210 --> 00:16:29,610
+or from an impulsive sweeping move.
+
+403
+00:16:29,610 --> 00:16:32,570
+This damages the liquidity in that area
+
+404
+00:16:32,570 --> 00:16:35,850
+and paradoxically causes prices to get stuck.
+
+405
+00:16:35,850 --> 00:16:38,090
+You ever had that experience where you get in
+
+406
+00:16:38,090 --> 00:16:40,809
+because the trend is really getting exciting
+
+407
+00:16:40,809 --> 00:16:42,889
+and as soon as you enter a position,
+
+408
+00:16:42,889 --> 00:16:44,129
+it starts going nowhere?
+
+409
+00:16:44,129 --> 00:16:45,049
+This is why.
+
+410
+00:16:45,049 --> 00:16:47,409
+Once you understand why these areas form,
+
+411
+00:16:47,409 --> 00:16:49,649
+you can see why it is kind of silly
+
+412
+00:16:49,649 --> 00:16:52,529
+to ascribe long-term significance to them.
+
+413
+00:16:52,529 --> 00:16:54,889
+Once the liquidity in that area has healed,
+
+414
+00:16:54,889 --> 00:16:57,850
+which rough rule of thumb takes about 45 minutes,
+
+415
+00:16:57,850 --> 00:16:59,850
+that price holds no significance.
+
+416
+00:16:59,850 --> 00:17:01,289
+Let's pull it all together.
+
+417
+00:17:01,289 --> 00:17:04,690
+How can we modify our approach to volume profile
+
+418
+00:17:04,690 --> 00:17:06,809
+to incorporate this new information?
+
+419
+00:17:06,809 --> 00:17:09,210
+First, realize that the volume profile
+
+420
+00:17:09,210 --> 00:17:12,450
+is telling you about past liquidity conditions
+
+421
+00:17:12,450 --> 00:17:14,369
+rather than past value.
+
+422
+00:17:14,369 --> 00:17:17,809
+So we can use that information to determine better prices
+
+423
+00:17:17,809 --> 00:17:20,369
+as well as to time our trades.
+
+424
+00:17:20,369 --> 00:17:21,450
+If I want to buy,
+
+425
+00:17:21,450 --> 00:17:23,569
+I'd rather do it at the lower end
+
+426
+00:17:23,569 --> 00:17:24,769
+of the current distribution.
+
+427
+00:17:24,769 --> 00:17:26,329
+If I'm looking for a trend,
+
+428
+00:17:26,329 --> 00:17:29,730
+I don't want to enter just as a liquidity hole forms.
+
+429
+00:17:29,730 --> 00:17:31,250
+I might want to wait a little bit.
+
+430
+00:17:31,250 --> 00:17:33,049
+I think a lot of volume profile traders
+
+431
+00:17:33,049 --> 00:17:35,650
+may already kind of do this subconsciously.
+
+432
+00:17:35,650 --> 00:17:39,049
+Now you can make such decisions explicitly
+
+433
+00:17:39,049 --> 00:17:43,089
+because you have a real understanding of the dynamics
+
+434
+00:17:43,089 --> 00:17:44,730
+going on under the surface.
+
+435
+00:17:44,730 --> 00:17:49,049
+Also, since the profile doesn't necessarily show us
+
+436
+00:17:49,049 --> 00:17:53,849
+anything about value, we need to track that separately.
+
+437
+00:17:53,849 --> 00:17:57,849
+That means following the news, understanding valuations,
+
+438
+00:17:57,849 --> 00:18:00,490
+looking at closely related comparable assets,
+
+439
+00:18:00,490 --> 00:18:02,769
+and keeping track of what we think
+
+440
+00:18:02,769 --> 00:18:04,369
+was driving past moves.
+
+441
+00:18:04,369 --> 00:18:07,650
+We want to understand when a move really was driven
+
+442
+00:18:07,650 --> 00:18:09,970
+by a change in the perception of value
+
+443
+00:18:09,970 --> 00:18:11,609
+and when it was more technical things.
+
+444
+00:18:11,609 --> 00:18:13,730
+So instead of making theories
+
+445
+00:18:13,730 --> 00:18:16,130
+about what key levels the market may go to,
+
+446
+00:18:16,130 --> 00:18:18,089
+I instead recommend making theories
+
+447
+00:18:18,089 --> 00:18:22,289
+about what flows will drive the market that day.
+
+448
+00:18:22,289 --> 00:18:24,890
+Flows could be driven by things like breaking news,
+
+449
+00:18:24,890 --> 00:18:28,250
+but they could also be driven by portfolio rebalancing.
+
+450
+00:18:28,250 --> 00:18:30,690
+It's not about fundamentals or technicals
+
+451
+00:18:30,690 --> 00:18:31,650
+or anything like that,
+
+452
+00:18:31,650 --> 00:18:35,250
+but rather how many orders a particular thing
+
+453
+00:18:35,250 --> 00:18:36,690
+is likely to generate.
+
+454
+00:18:36,690 --> 00:18:38,730
+So after our analysis,
+
+455
+00:18:38,730 --> 00:18:42,490
+if we expect an imbalance in those flows,
+
+456
+00:18:42,490 --> 00:18:44,490
+then we have an opportunity for a trade.
+
+457
+00:18:44,490 --> 00:18:46,170
+That should give you some ideas
+
+458
+00:18:46,170 --> 00:18:49,170
+on how to modify your approach to volume profile
+
+459
+00:18:49,170 --> 00:18:53,089
+to better align with our current understanding of markets.
+
+460
+00:18:53,089 --> 00:18:55,730
+If you're interested in the empirically-based
+
+461
+00:18:55,730 --> 00:18:57,410
+order flow view of markets,
+
+462
+00:18:57,410 --> 00:18:59,769
+make sure to check out my other videos,
+
+463
+00:18:59,769 --> 00:19:02,210
+particularly the order flow video series
+
+464
+00:19:02,210 --> 00:19:03,650
+where we go into all of that.
+
+465
+00:19:03,650 --> 00:19:06,529
+I also have a free strategy PDF
+
+466
+00:19:06,529 --> 00:19:10,970
+you can download from speculatorseth.com slash strategy.html.
+
+467
+00:19:10,970 --> 00:19:13,849
+And this goes into a lot more detail
+
+468
+00:19:13,849 --> 00:19:15,809
+than a video really allows for.
+
+469
+00:19:15,809 --> 00:19:18,569
+And of course, I'm always available every morning
+
+470
+00:19:18,569 --> 00:19:20,130
+during our morning live stream.
+
+471
+00:19:20,130 --> 00:19:22,170
+I stream my entire trading session
+
+472
+00:19:22,170 --> 00:19:25,089
+and you can come and ask any questions that you want.
+
+473
+00:19:25,089 --> 00:19:27,369
+So I will see you guys then
+
+474
+00:19:27,369 --> 00:19:29,089
+every morning at 8.30 Eastern time.
+
+475
+00:19:29,089 --> 00:19:34,940
+In the meantime, stay excellent team.
+
+476
+00:19:34,940 --> 00:19:38,619
+Are you using volume profile slash market profile
+
+477
+00:19:38,619 --> 00:19:40,779
+in your analysis, in your futures trading?
+
+478
+00:19:40,779 --> 00:19:42,460
+If so, you need to watch this.
+

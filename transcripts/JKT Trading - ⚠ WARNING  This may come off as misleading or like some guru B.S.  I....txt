@@ -1,0 +1,447 @@
+JKT Trading - ⚠ WARNING:  This may come off as misleading or like some guru B.S.  I...
+https://x.com/JeredKing/status/2083252316539638203/video/1
+
+[00:00:00] risk-risk-reward. So what do I mean by risk-reward? If you risk one to win two, that would be a 2R
+[00:00:07] risk-reward ratio. So let's look at how this plays out.
+[00:00:10] So if you have a 50% win rate and you make two times as much as you risk per trade,
+[00:00:17] and you're risking 10%, this is what you're kind of P&L.
+[00:00:21] You're gonna have drawdown, but you're gonna bounce back. As you guys saw today,
+[00:00:25] I was able to take losses and then bounce back.
+[00:00:28] It's because of my risk-reward ratio. A 1 to 1 means that you risk 100 to make 100.
+[00:00:34] You can't bounce back. You don't have enough bounce back, and that's a 50% win rate.
+[00:00:40] You'll just slowly bleed out. So if you have a 50% win rate and you're using a 1 to 1
+[00:00:47] risk-reward ratio, you have an 84% chance of blowing up. If you have a 40% win rate and 1 to 1,
+[00:00:54] you have 100%. This is why I laugh at those dudes pushing low risk-to-reward strategies.
+[00:01:00] They don't work. It may have short-term success, but it won't work long-term.
+[00:01:04] If you have a 2 to 1, meaning you make more than double what you lose,
+[00:01:09] you only have a 4% chance. Look at that.
+[00:01:11] They're gonna tell you that this is the way to go when you look at something like that.
+[00:01:16] If you have a 1 to 1 and you have an 80% win rate, that's a different story.
+[00:01:20] I think 55% to 60%. I think that's about where it should be.
+[00:01:26] Well, you'll see here by adjusting your position sizing and risking only 5%,
+[00:01:31] you can have a... it lowers your chances of blowing up by quite a bit.
+[00:01:35] It removes it to 50%. And then if you have a 2 to 1 and a 60%, 0% chance of blowing up,
+[00:01:45] because the amount of losses you would need to take in a row, it's just unlikely to happen.
+[00:01:50] This here looks at probability of losing trades in a row.
+[00:01:55] I know we all like to think that the law of large numbers doesn't apply to us,
+[00:02:01] but it does. Trust me, it does.
+[00:02:04] It will play out no matter what you do.
+[00:02:06] It's just like it's the world we live in for whatever reason it plays out.
+[00:02:10] I can't tell you why, but if you have a win rate of 55%, which is really good,
+[00:02:16] you have a 100% chance of taking three losses in a row.
+[00:02:20] 98% for losses in a row. That means that if you risk $500,
+[00:02:25] let's say, you could only take four losses before you blow up
+[00:02:29] and you have a 98% chance of doing that.
+[00:02:33] So if you're failed automatically, risking too much,
+[00:02:36] you're going to blow up no matter what you do.
+[00:02:40] So this is why you have to stick to 10% or less of your total drawdown.
+[00:02:46] If you don't do that, you're going to fail no matter what you do.
+[00:02:49] Even a 75% win rate, you still have a 32% chance of hitting four losses in a row.
+[00:02:57] So if you had a 75% win rate and you're risking $500 per trade,
+[00:03:01] 32% of the time, you're going to blow up without anything else,
+[00:03:05] all the other stuff that makes it harder to trade to death
+[00:03:08] because of commissions and everything else.
+[00:03:10] Probably use this for another video.
+[00:03:12] Let's just go over real quick already here.
+[00:03:14] So how to correct common trading failures.
+[00:03:17] So failure to accept randomness.
+[00:03:20] I think that's one of the biggest issues with traders.
+[00:03:24] Outcomes are random.
+[00:03:25] This is a law.
+[00:03:27] Approach our edge as a large set of trades.
+[00:03:30] Don't assess on a single trade or two.
+[00:03:33] Understand that this is the law and it does apply to your trading.
+[00:03:39] Even though we may know where the market goes,
+[00:03:41] even though we may understand the market,
+[00:03:45] but our strategies have a win rate baked into them
+[00:03:49] and that win rate is going to play out over a set of large numbers.
+[00:03:53] Look at your setups as you don't know which ones are going to be wins and losses,
+[00:03:57] but out of a set of 10 trades, you're going to win five to six of them.
+[00:04:03] You don't know when the four losses are going to come,
+[00:04:07] but you understand that they are going to come at some point.
+[00:04:10] Whether they're in a row or they're spread out, you don't know.
+[00:04:14] This removes the, you shouldn't be upset about taking a loss then
+[00:04:19] because it's baked into your strategy.
+[00:04:22] It's a given.
+[00:04:24] Losses are going to come.
+[00:04:25] It removes the, you shouldn't really get upset about it.
+[00:04:28] It sucks, but you don't need to be upset about it
+[00:04:30] because as long as you're following the process, it will play out in your favor.
+[00:04:34] Failure to accept losses are necessary.
+[00:04:37] We are placing a bet to see if our variables are correct
+[00:04:42] and the stop loss keeps us in business.
+[00:04:44] Failure to honor our risk limits.
+[00:04:47] Sometimes things simply don't work.
+[00:04:49] Respecting loss limits like understanding today is a red day
+[00:04:53] and just eating it and not continuing to blow up all the work you put in place.
+[00:04:59] Failure to use leverage correctly.
+[00:05:01] We just talked about that failure to track performance.
+[00:05:04] There is no professional anything that doesn't understand their statistics.
+[00:05:10] Every business understands their profit and loss.
+[00:05:14] Every business understands their expenses.
+[00:05:16] Every business and you have to treat trading the same way.
+[00:05:20] You must look at your stats.
+[00:05:22] Some basic expectations and beliefs we must embrace to succeed.
+[00:05:26] This is really important guys.
+[00:05:28] Trade process versus outcomes.
+[00:05:30] Judge what I do rather than money gained or lost.
+[00:05:34] While I do like this statement, I don't want to sit here
+[00:05:39] and tell you money doesn't matter because that's a bunch of guru BS.
+[00:05:43] We should be focused on process and understand that over a set of trades,
+[00:05:47] we will make the money.
+[00:05:49] But I hate when people say just don't worry about the money.
+[00:05:53] It will come.
+[00:05:54] What do you mean?
+[00:05:55] I think that is a weird statement to make
+[00:05:59] because we are risking money to make more money.
+[00:06:02] That's trading.
+[00:06:03] Trading is risking money, putting money at risk
+[00:06:07] to then make more money.
+[00:06:09] That's trading.
+[00:06:10] So I think disassociating the money from the trading I don't think is good,
+[00:06:14] but you need to focus on the process that will then lead to the money.
+[00:06:20] Judge on large numbers.
+[00:06:21] The last trade doesn't matter.
+[00:06:23] You need a lot of trades for your edge to fully play out.
+[00:06:27] Growth mindset, very important.
+[00:06:29] Always adapting and continuing to learn and get better.
+[00:06:32] Number four, basic expectation and randomness is inevitable.
+[00:06:37] Anything can happen.
+[00:06:38] This just means accepting a loss because it is the randomness built into your strategy.
+[00:06:45] I'm not saying the markets are random.
+[00:06:47] I'm not saying that I'm saying the strategies when winning losses,
+[00:06:52] the best way to look at them is that over a set of trades,
+[00:06:56] you're going to win five to six of them,
+[00:06:59] but you're going to lose four of them.
+[00:07:01] The randomness is the four losses.
+[00:07:03] You don't know when they're going to come.
+[00:07:05] That's randomness.
+[00:07:06] Limit stops and restraints.
+[00:07:08] Limit bet size so we can stay in the game.
+[00:07:11] If you're over risking, you're not going to be able to stay in the game,
+[00:07:14] and if you're not accepting a red day and you continue to push,
+[00:07:18] you're not going to stay in the game.
+[00:07:21] So next, number six, I am a professional.
+[00:07:25] I track what I'm doing and what works or doesn't work.
+[00:07:30] Again, there are no professionals in any field that don't do this.
+[00:07:34] So trading is no different.
+[00:07:35] These are things that you must do as a trader and accept.
+[00:07:39] This is the bare minimum, guys.
+[00:07:41] So if you're not tracking, you're not looking at your statistics
+[00:07:45] at the end of the day or at the end of the week,
+[00:07:47] if you're just not looking at them all,
+[00:07:50] you're not doing what's required of you.
+[00:07:54] And until you do it, you should expect to fail.
+[00:07:58] Let me say that again.
+[00:08:00] If you're not doing and looking and believing
+[00:08:03] what's on this list here and you're failing
+[00:08:06] until you implement these beliefs and bare minimums,
+[00:08:12] you will continue to fail.
+[00:08:15] So if you're not doing it, aware of your statistics
+[00:08:20] and you're not in some type of way tracking
+[00:08:23] what's working for you or doesn't,
+[00:08:25] you will continue to fail until you make that change.
+[00:08:28] The market is not out to get me.
+[00:08:31] This is a big one.
+[00:08:32] No one is trying to run your stops.
+[00:08:34] You're just simply in the way of the market at that moment.
+[00:08:37] Stop looking at the market at a negative light.
+[00:08:41] Trade setups must show themselves.
+[00:08:44] Don't project your view onto the markets.
+[00:08:47] You saw me do this yesterday.
+[00:08:49] Didn't work out very well for me, right?
+[00:08:51] I failed because I refused to accept number eight.
+[00:08:56] I refused to accept that the market was bullish.
+[00:08:59] I was projecting my view onto the market
+[00:09:01] and it resulted in failure.
+[00:09:03] So here's some other things.
+[00:09:05] Failure to define our edge.
+[00:09:06] Have a theory and test it.
+[00:09:08] Know why the market should pay us.
+[00:09:10] Write down the context necessary to take a trade.
+[00:09:13] That's like a Saturday study session.
+[00:09:16] If you do that with me.
+[00:09:17] Failure to prepare.
+[00:09:19] Saturday study session.
+[00:09:20] Sunday prep.
+[00:09:22] Failure to follow a process.
+[00:09:24] This is probably one of the biggest ones.
+[00:09:26] Define and follow the process that gets us into a trade.
+[00:09:30] And I'm actually going to have a call with someone,
+[00:09:33] probably here in a little bit,
+[00:09:34] one of the people in the group and just help them
+[00:09:37] because I think they're almost all the way there.
+[00:09:39] I just don't think they're following the process.
+[00:09:42] So this is what I mean by lowering the entropy,
+[00:09:45] the randomness.
+[00:09:46] You must have know what to do, when to do it,
+[00:09:49] how to do it and already have that all predefined.
+[00:09:53] If there's a bunch of randomness in your trading,
+[00:09:56] you're going to fail.
+[00:09:57] And that means you have to follow a process.
+[00:09:59] Failure to wait.
+[00:10:01] Failure to stay focused.
+[00:10:02] Pretty self-explanatory.
+[00:10:04] So everything that we talked about
+[00:10:06] leads to these five truths to be profitable.
+[00:10:12] I want to make this clear, guys.
+[00:10:14] This right here is your key to profitability
+[00:10:18] and fast-tracking it and getting profitable now.
+[00:10:21] Next week, not a month, not a year.
+[00:10:26] Now, I have spent so much time honing this in
+[00:10:31] as you saw Captain Kirk asking about
+[00:10:33] a old risk to reward ratio I used to use.
+[00:10:38] So I have been honing these five rules
+[00:10:41] of trading management and they're so well honed in now
+[00:10:46] that you can be, it sounds dumb to even say out loud,
+[00:10:52] a 11% win rate without counting commissions.
+[00:10:56] You will be break even.
+[00:10:58] You will just tread water, which is crazy.
+[00:11:01] If you follow this to the tee.
+[00:11:04] With that said, all you need is a 33% win rate.
+[00:11:10] Remember flipping a quarter is 50%.
+[00:11:13] That means if you were just to randomly
+[00:11:17] enter into the market at random
+[00:11:20] and implement this, you would be profitable.
+[00:11:24] A 33% win rate, that means that all you have to win
+[00:11:27] is four out of the 10 trades.
+[00:11:30] If you take 10 trades a day,
+[00:11:31] all you have to do is win four of them,
+[00:11:34] which is worse than entering in randomly.
+[00:11:37] And with my strategies that I've already taught you guys
+[00:11:39] or you're learning, you're good to go.
+[00:11:42] But I will say one thing about this.
+[00:11:44] You have to understand where price is
+[00:11:46] redelivering for this to work because the target
+[00:11:51] is dependent on redelivery.
+[00:11:54] If you don't understand where price must redeliver to,
+[00:11:57] you can take everything I just said
+[00:11:59] and it's not going to work
+[00:12:02] because you're not going to be able to get to our wins
+[00:12:06] without that.
+[00:12:07] That's why I make that clear.
+[00:12:08] I don't want to make it sound like it's some all in be all
+[00:12:12] because there is a requirements and it's hard to follow
+[00:12:15] because it's a process
+[00:12:17] and it goes against our human nature
+[00:12:19] and you do need to understand redelivery.
+[00:12:21] So here is how you do it.
+[00:12:23] Now named to ATM because it's essentially what it is.
+[00:12:27] You guys see it, it works, right?
+[00:12:30] So number one, you need to enter in
+[00:12:34] with an even number of contracts,
+[00:12:37] whether it's two, four, six, eight, 10,
+[00:12:41] or as close as that as you can get to.
+[00:12:43] So if you buy into the market right here,
+[00:12:46] you buy here, your stop loss is here,
+[00:12:50] you're going to scale out and exit half your position.
+[00:12:53] We're going to measure this here, how many points this is.
+[00:12:57] If you're risking 10 points,
+[00:13:01] that means at 13 points,
+[00:13:04] you're going to take off half of your position.
+[00:13:06] You're going to exit half here at the market.
+[00:13:09] When price gets here, you're just going to exit.
+[00:13:14] So if you had six micros on, you're going to exit three.
+[00:13:18] And now by doing this, that removes all risk.
+[00:13:24] You're no longer having your risk in the trade.
+[00:13:26] You cannot lose because if you exit at half here,
+[00:13:30] up here, you had $200 of profit.
+[00:13:34] You had $150 of risk.
+[00:13:36] Let's say you had $150 of risk on the trade
+[00:13:39] that if you got stopped out, you would lose $150.
+[00:13:44] Up here, you have $200 profit.
+[00:13:47] With two contracts, you had $200 of profit.
+[00:13:51] You would now have banked and put that $100 and guaranteed it.
+[00:13:56] And now you only have $75 of risk remaining,
+[00:14:01] but you just got $100.
+[00:14:04] So that means you'll make $25,
+[00:14:08] even if price comes back down and all the way back down here
+[00:14:12] and stops you out, you are not to move your stop loss.
+[00:14:16] Do not move it to here.
+[00:14:18] Do not move it to break even.
+[00:14:20] That ruins it.
+[00:14:21] People talk about moving your stop to break even.
+[00:14:23] It is in this trade management style.
+[00:14:25] It is a very bad thing.
+[00:14:27] It causes it.
+[00:14:28] You won't be profitable.
+[00:14:31] That was rule three, leave stop.
+[00:14:33] And then, so this is 1.3 times the risk, right?
+[00:14:39] So now you're going to find a area
+[00:14:43] that needs to be re-delivered to that is two times.
+[00:14:46] So if your risk was 10,
+[00:14:48] the 2R target needs to be at least 20 points away.
+[00:14:52] So once price gets to your target,
+[00:14:54] you're not going to set a limit order.
+[00:14:56] You're going to implement one time framing on the one minute.
+[00:15:00] So once price gets up here,
+[00:15:01] you scale out there, it gets to your target.
+[00:15:04] You're not going to exit here,
+[00:15:06] but you're going to implement one time framing.
+[00:15:08] So as long as price does not close below the previous candle,
+[00:15:12] you stay in the trade.
+[00:15:13] I don't care if it goes for another 500 points.
+[00:15:16] You stay in it no matter what.
+[00:15:20] And then when it finally closes below the previous candle is low,
+[00:15:23] you get out.
+[00:15:24] I mean, when that happens, you get out.
+[00:15:25] But you do not do it early
+[00:15:27] because you're not a weak person.
+[00:15:29] Weak people do that
+[00:15:30] because they're scared of giving back profits.
+[00:15:32] They're scared of giving back money
+[00:15:34] that's being made for them automatically
+[00:15:36] without them doing anything else.
+[00:15:38] So then let's say this is a winning trade,
+[00:15:41] you would then risk 10, you made 60.
+[00:15:45] Exiting here would have got you 20.
+[00:15:48] So you get extra 40 points of profit.
+[00:15:52] And then not every trade is going to work out like that.
+[00:15:55] But over a set of, let's say, 10 trades,
+[00:15:58] usually two of them will.
+[00:16:00] So one of them you might even give back a little bit here
+[00:16:04] when you go to, maybe it starts one time frame
+[00:16:06] and the next candle's big down.
+[00:16:09] And then instead of getting a 2R, you get 1.7, whatever.
+[00:16:13] The big trades, as you saw this morning,
+[00:16:15] I got extra 200 points or something like that
+[00:16:17] by using one time framing.
+[00:16:19] 200 points, that's crazy, right?
+[00:16:20] But that's it.
+[00:16:21] By doing this, you can do this, guys.
+[00:16:24] But you can go your own way and figure it out yourself.
+[00:16:26] Let's hear your prerogative.
+[00:16:27] But I have done my part.
+[00:16:30] I've done everything I can to try to help you figure this out.
+[00:16:35] Obviously, I'll keep trying to help you.
+[00:16:37] But if you want this, you just got to,
+[00:16:40] are you willing to do it or not?
+[00:16:42] It's not going to feel good.
+[00:16:44] You're not going to like it.
+[00:16:45] It's not going to make you happy in the moment.
+[00:16:48] But quitting your job, retiring your fucking parents,
+[00:16:53] moving into your dream house,
+[00:16:54] whatever your goal is and why you're doing this,
+[00:16:57] quitting whatever it is, is worth it, right?
+[00:17:00] So is doing this worth that?
+[00:17:03] Absolutely.
+[00:17:04] So we just got to do it, guys.
+[00:17:06] You don't have to.
+[00:17:06] Obviously, you can go your own route
+[00:17:08] and figure it out yourself.
+[00:17:09] But I'm giving you a cheat code here
+[00:17:13] that took me so long to figure out and hone in.
+[00:17:17] It seems like an easy thing to do and figure out.
+[00:17:21] But it's really not.
+[00:17:22] Because no one else in the whole fucking world
+[00:17:24] was telling me to do it this way.
+[00:17:27] Everybody in the game was telling me to do it the opposite way.
+[00:17:32] Every single person.
+[00:17:33] And that's what took it so long
+[00:17:35] is because I had to look at what they told me to do
+[00:17:38] and then try it, realize it doesn't work.
+[00:17:41] Why doesn't it work?
+[00:17:43] Because they're not traders.
+[00:17:45] They're gurus.
+[00:17:47] They're affiliates that aren't even trading.
+[00:17:49] So they're giving me advice on something they don't even do.
+[00:17:53] And it really wasn't until I found a real trader,
+[00:17:56] which was FuturesTrader72.
+[00:17:59] And he talked about scaling out.
+[00:18:01] And he showed the math
+[00:18:03] and how it actually makes trades better.
+[00:18:06] Even though you're getting less money on that first contract,
+[00:18:11] it improves the overall mathematics of profitable trading.
+[00:18:15] It wasn't until I saw that
+[00:18:17] where I really started to think about trading differently.
+[00:18:20] But I'll tell you right now,
+[00:18:22] no one else is going to tell you to do it this way.
+[00:18:24] They're going to tell you to do it the exact opposite way,
+[00:18:27] which if you want to do it that way, it's fine.
+[00:18:29] But I'm giving you a key here that I would try.
+[00:18:33] What's the worst that can happen?
+[00:18:35] The next three evals you buy,
+[00:18:38] you do your hardest to do this.
+[00:18:41] Let's say on one of our three of them,
+[00:18:44] you're actually able to follow the process to the T
+[00:18:46] and you don't deviate from it.
+[00:18:48] And then you get a payout.
+[00:18:50] That's the worst that can happen.
+[00:18:52] But it's not going to be easy.
+[00:18:54] It's not easy because the greed sets in when the trade starts.
+[00:18:58] You don't want to exit at 1.3 R.
+[00:19:00] You don't want to take off half your profit at the moment
+[00:19:04] because of greed.
+[00:19:05] Even though it guarantees a winner
+[00:19:07] and you still get the upside,
+[00:19:09] but in the moment, you have to fight the greed.
+[00:19:11] And then the fear sets in as price,
+[00:19:14] maybe bouncing around your breakeven price.
+[00:19:17] You want to move your stop to breakeven.
+[00:19:20] So you have to fight the fear.
+[00:19:22] And then if the trade does go your way,
+[00:19:25] you have to fight the fear of giving back profits
+[00:19:28] all the way to 2R.
+[00:19:30] And then once at 2R,
+[00:19:31] you have to fight the fear even more
+[00:19:34] and allow one time for him to play out.
+[00:19:36] And everything in your body and your mind
+[00:19:40] is going to be telling you to exit.
+[00:19:42] But that is not the right thing to do.
+[00:19:44] I think good trading, you should be uncomfortable.
+[00:19:49] It's going to be uncomfortable.
+[00:19:51] If it was comfortable and easy and fun,
+[00:19:56] there would be no money in it.
+[00:19:58] Go work a night.
+[00:19:59] It'd be like a nine to five.
+[00:20:02] It's easy to show up to your job every day.
+[00:20:04] It's easy to do it.
+[00:20:06] You're comfortable with doing it
+[00:20:07] because you've been doing it forever.
+[00:20:08] But I'm just letting you know
+[00:20:11] it's not going to be easy to do.
+[00:20:12] But if you do do it,
+[00:20:14] I don't want to sound like a guru here
+[00:20:16] and say I guarantee you'll be profitable.
+[00:20:19] But unless you're going into tilt and over-risking
+[00:20:23] and doing something stupid,
+[00:20:26] it will be, I should have put here,
+[00:20:28] let me make a,
+[00:20:28] it just needs to be stated here.
+[00:20:30] 10% drawdown per trade.
+[00:20:33] Whatever it is, that's a must.
+[00:20:35] Because if you're risking,
+[00:20:36] if you got $2,000 of drawdown
+[00:20:38] and you're risking a thousand,
+[00:20:40] this isn't going to help you, right?
+[00:20:42] So in a 50K account, that would be max $200.
+[00:20:46] I would say you could get away with 12.5%.
+[00:20:48] But that's about it.
+[00:20:50] All right, guys, I think that will do it.
+[00:20:53] I urge you, I beg you, just do it.
+[00:20:57] I want to see you guys win.
+[00:20:59] I want to see you be successful.
+[00:21:01] So if you won't, just try it.
+[00:21:04] For fuck's sake, please, not half-ass,
+[00:21:07] but really do it and see if it works.
+[00:21:10] Call me out, test it.
+[00:21:12] If you don't think it's worth it, why?
+[00:21:16] If you're not willing to try it, why?
+[00:21:18] You don't think it's real?
+[00:21:20] Prove me wrong, show me.
+[00:21:22] If you're unwilling to do it
+[00:21:23] because you just don't have the mindset
+[00:21:25] and you're just not, then quit right now.
+[00:21:27] You're in the wrong, you're not built for this.
+[00:21:30] All righty, guys.
+[00:21:31] Future'sTrader71, he's the truth.
+[00:21:34] He's a good mentor.
+[00:21:36] He really actually, a lot like myself.
+[00:21:39] I believe he really wants people to,
+[00:21:41] he's a real trader.
+[00:21:42] All right, guys, I'll see you guys
+[00:21:44] tomorrow at the study session.
+[00:21:45] Of course, always, man.
+[00:21:46] All righty, guys.
+[00:21:47] Good Friday, and I'll see you guys in charts.
+[00:21:50] You're welcome.
